@@ -21,13 +21,13 @@ Feel free to use this template for your own site. Just maybe change the theme or
 First, clone the repository:
 
 ```bash
-git clone https://github.com/KeluhingBavui/portfolio-v2.git
+https://github.com/MystikFRD/notbookingcom.git
 ```
 
 Then, navigate to the project folder:
 
 ```bash
-cd portfolio
+cd notbookingcom
 ```
 
 Next, install the dependencies:
@@ -41,6 +41,11 @@ Then, run the development server:
 ```bash
 npm run dev
 ```
+if there is an Issue try:
+```bash
+npm audit --force
+```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser and start coding.
 
