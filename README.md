@@ -21,7 +21,7 @@ Feel free to use this template for your own site. Just maybe change the theme or
 First, clone the repository:
 
 ```bash
-https://github.com/MystikFRD/notbookingcom.git
+git clone https://github.com/MystikFRD/notbookingcom.git
 ```
 
 Then, navigate to the project folder:
