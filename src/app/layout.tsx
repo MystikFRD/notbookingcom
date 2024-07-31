@@ -7,8 +7,8 @@ import { SpeedInsights } from '@vercel/speed-insights/next'
 import { GeistSans } from "geist/font/sans";
 
 export const metadata: Metadata = {
-    title: 'TimeTracker - Momo',
-    description: 'Momo',
+    title: 'notBookingcom - Mystik',
+    description: 'Mystik',
 }
 
 export default function RootLayout({
